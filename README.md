@@ -9,4 +9,4 @@ Icon Set|Folder|License|Count
 none|resources/hud|drawn by me|3
 
 ## More info for Game-Icons
-* [Detail File Info](https://github.com/mlthelama/LamasTinyHUD/wiki/Used-Icons-Detail)
+* [Detail File Info](https://github.com/mlthelama/ResourcesForLamasTinyHUD/wiki/Editing-Used-Icons-Detail)
