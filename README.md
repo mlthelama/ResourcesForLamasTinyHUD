@@ -1,12 +1,11 @@
 # ResourcesForLamasTinyHUD
 
-## Icon Sets
+All Extracted as SVG upcaled to 512x512 and then exported as png.
 
-Icon Set|Folder|License|Count
----|---|---|---
-[Xelu_Free_Controller&Key_Prompts](https://thoseawesomeguys.com/prompts/)|resources/key|[Creative Commons 0 (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)|117
-[Game-Icons](https://game-icons.net) or [game-icons-github](https://github.com/game-icons/icons)|resources/icon|[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)|45
-none|resources/hud|drawn by me|3
+## Replacer Icon Sets
 
-## More info for Game-Icons
-* [Detail File Info](https://github.com/mlthelama/ResourcesForLamasTinyHUD/wiki/Editing-Used-Icons-Detail)
+Icon Set|Folder|License|Count|Branch|Info
+---|---|---|---|---|---
+[SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=description) or [skyui-github](https://github.com/schlangster/skyui)|resources/icon|All Credit goes to the SkyUI Team|45|-|extracted from [file](https://github.com/schlangster/skyui/blob/master/src/Resources/icons_item_psychosteve.fla)
+Bethesda Game Studios|resources/hud|Bethesda Game Studios |1|-|extracted from quest_journal
+
