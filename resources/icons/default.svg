@@ -3,7 +3,7 @@
    height="512"
    width="512"
    version="1.1"
-   id="svg33"
+   id="svg6"
    sodipodi:docname="default.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="default.png"
@@ -11,11 +11,12 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
   <sodipodi:namedview
-     id="namedview35"
+     id="namedview8"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,113 +25,23 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.0029297"
-     inkscape:cx="-136.59981"
-     inkscape:cy="115.16261"
+     inkscape:zoom="1.5385565"
+     inkscape:cx="178.08901"
+     inkscape:cy="164.11487"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg33" />
+     inkscape:current-layer="svg6" />
   <g
-     id="g6"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use2" />
-    <use
-       height="604.75"
-       transform="matrix(0.195,0,0,0.1951,5.8007,4.936)"
-       width="597.15002"
-       xlink:href="#sprite0"
-       id="use4" />
+     transform="matrix(4.3393251,0,0,4.3393251,-22.168086,-21.479659)"
+     id="g4">
+    <path
+       d="m 119.95,28.8 q 1.5,0.6 0.15,1.2 L 67.3,53.1 q -1.35,0.6 -2.85,0 L 8.15,29.5 q -1.4,-0.65 0,-1.15 L 60.9,5.25 q 1.35,-0.6 2.8,0 l 56.25,23.55 m 0.95,5.75 q 1.35,-0.65 1.35,1 V 97.7 q 0,1.6 -1.35,2.2 l -52.15,22.9 q -1.4,0.55 -1.4,-1.05 V 59.6 q 0,-1.6 1.4,-2.2 L 120.9,34.55 m -113.7,0 52.15,22.85 q 1.35,0.6 1.35,2.2 v 62.15 q 0,1.6 -1.35,1.05 L 7.2,99.9 Q 5.8,99.3 5.8,97.7 V 35.55 q 0,-1.65 1.4,-1"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path2" />
   </g>
-  <defs
-     id="defs31">
-    <g
-       id="shape0">
-      <path
-         d="M 100,100 H 0 V 0 h 100 v 100"
-         fill="#00cc66"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path8" />
-      <path
-         d="M 84.3,84.3 V 15.7 H 15.7 v 68.6 h 68.6 m 7.95,7.95 H 7.75 V 7.75 h 84.5 v 84.5"
-         fill="#666666"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path10" />
-      <path
-         d="M 84.3,84.3 H 15.7 V 15.7 H 84.3 V 84.3 M 76.4,76.4 V 23.55 H 23.55 V 76.4 H 76.4"
-         fill="#999999"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path12" />
-      <path
-         d="M 92.25,92.25 V 7.75 H 7.75 v 84.5 h 84.5 m 3.8,3.8 H 3.95 V 3.95 h 92.1 v 92.1"
-         fill="#333333"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path14" />
-      <path
-         d="M 68.85,68.85 V 31.1 H 31.1 V 68.85 H 68.85 M 76.4,76.4 H 23.55 V 23.55 H 76.4 V 76.4"
-         fill="#cccccc"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path16" />
-      <path
-         d="M 68.85,68.85 H 31.1 V 31.1 h 37.75 v 37.75"
-         fill="#ffffff"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path18" />
-      <path
-         d="M 96.05,96.05 V 3.95 H 3.95 v 92.1 h 92.1 M 100,100 H 0 V 0 h 100 v 100"
-         fill="#000000"
-         fill-opacity="0"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path20" />
-      <path
-         d="M 0,50 H 50 L 0,0 M 50,50 V 0 m 0,100 V 50 L 0,100 M 100,50 H 50 l 50,50 M 50,50 100,0"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-opacity="0"
-         stroke-width="0.05"
-         id="path22" />
-    </g>
-    <g
-       id="sprite0"
-       transform="translate(-17.95,-25.3)">
-      <use
-         height="604.75"
-         transform="translate(17.95,25.3)"
-         width="597.15002"
-         xlink:href="#shape1"
-         id="use25" />
-    </g>
-    <g
-       id="shape1"
-       transform="translate(-17.95,-25.3)">
-      <path
-         d="m 603.3,147.65 q 7.6,3.05 0.65,6.15 l -270.7,118.4 q -6.95,3.05 -14.55,0 L 30.05,151.2 Q 22.8,148 29.9,145.25 L 300.45,26.85 q 6.95,-3.1 14.35,0 l 288.5,120.8 m 4.85,29.4 q 6.95,-3.25 6.95,5.15 v 318.55 q 0,8.2 -6.95,11.3 L 340.65,629.3 q -7.1,2.9 -7.1,-5.35 v -318.5 q 0,-8.25 7.1,-11.3 l 267.5,-117.1 m -583.1,0 267.5,117.1 q 6.95,3.05 6.95,11.3 v 318.5 q 0,8.25 -6.95,5.35 L 25.05,512.05 q -7.1,-3.1 -7.1,-11.3 V 182.2 q 0,-8.4 7.1,-5.15"
-         fill="#ffffff"
-         fill-rule="evenodd"
-         stroke="none"
-         id="path28" />
-    </g>
-  </defs>
 </svg>
