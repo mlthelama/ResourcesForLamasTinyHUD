@@ -10,7 +10,7 @@ def make_rel_archive(a_args):
 
     v_path: str = os.path.join(a_args.src_dir, "resources")
     for path in Path(v_path).rglob('*.png'):
-        archive.write(path, os.path.join("SKSE/Plugins/resources/", path.parent.name, path.name))
+        archive.write(path, os.path.join("SKSE/Plugins/resources/", path.relative_to(v_path)))
 
     archive.write(os.path.join(a_args.src_dir, "config", "LamasTinyHUD.ini"),
                   "MCM/Settings/LamasTinyHUD.ini")
