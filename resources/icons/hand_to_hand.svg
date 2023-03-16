@@ -4,7 +4,7 @@
    width="512"
    version="1.1"
    id="svg14"
-   sodipodi:docname="handtohand.svg"
+   sodipodi:docname="hand_to_hand.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="handtohand.png"
    inkscape:export-xdpi="96"
@@ -25,23 +25,25 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4183568"
-     inkscape:cx="-37.367185"
-     inkscape:cy="319.03116"
+     inkscape:cx="-121.97213"
+     inkscape:cy="319.73619"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4" />
+     inkscape:current-layer="svg14" />
   <g
-     id="g4"
-     transform="matrix(4.0001275,0,0,4.0001275,90,0)">
-    <use
-       height="239.2"
-       transform="scale(0.5351)"
-       width="155.3"
-       xlink:href="#sprite0"
-       id="use2" />
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 88.45,61 14.1,-53.85 24.55,7.6 -17.45,45.3 L 88.45,61 M 67.25,64.3 39.8,68 v 12.35 l 28.05,-4.4 29.85,23.15 10.55,25.7 -4.05,-29.9 -24.7,-19.55 20.4,-8.7 33,6.65 14.55,-24.75 7.85,30.35 -25.7,42.6 16.65,117.7 H 22.95 L 37.35,117.55 0,101 11.4,48.45 75.9,33.75 67.25,64.3 M 59.45,31 64.5,4.8 l 27.85,1.85 -8.95,43.5 -6,0.8 5.25,-24.3 L 59.45,31 M 57.35,0 51.4,32.85 22.5,38.8 28.05,2.1 57.35,0 m 57.6,60.75 18.3,-44.05 19,7.75 -22.6,41.15 -14.7,-4.85"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path243"
+       transform="matrix(2.1404682,0,0,2.1404682,90,0)" />
   </g>
   <defs
      id="defs12">

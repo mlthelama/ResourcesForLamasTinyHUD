@@ -4,7 +4,7 @@
    width="512"
    version="1.1"
    id="svg33"
-   sodipodi:docname="one_handed_axe.svg"
+   sodipodi:docname="axe_one_handed.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="one_handed_axe.png"
    inkscape:export-xdpi="96"
@@ -25,30 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4183568"
-     inkscape:cx="178.37543"
-     inkscape:cy="223.85059"
+     inkscape:cx="94.475523"
+     inkscape:cy="224.55563"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg33" />
-  <g
-     id="g6"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use2" />
-    <use
-       height="923.79999"
-       transform="matrix(0.128,0,0,0.1281,19.0936,4.8064)"
-       width="701.84998"
-       xlink:href="#sprite0"
-       id="use4" />
-  </g>
   <defs
      id="defs31">
     <g
@@ -133,4 +117,16 @@
          id="path28" />
     </g>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="M 459.3,367.7 Q 441.4,364.9 424,363 296.4,351.95 194.35,422.75 l 410.55,410.35 13.65,-13.85 29.75,29.8 -74.85,74.8 L 543.7,894.1 556.65,881.15 146.1,470.8 l -35.5,35.7 -20,-19.95 q -67.2,-16.4 -125.45,31.25 -13.6,-72.3 18.1,-138.65 l -30,-29.95 35.5,-35.75 -42.3,-42.5 48.25,-48.05 42.35,42.5 Q 68.3,225 84,178.65 111.45,98.5 91.65,0.05 154.2,21.1 208.2,54.7 360.85,149.1 447.35,339.8 l 11.95,27.9 M 78.3,306.45 154.6,383 q 15.95,-15.95 15.95,-38.5 0,-22.55 -15.95,-38.25 -15.95,-15.95 -38.05,-15.75 -22.35,0 -38.25,15.95"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path253"
+       transform="matrix(0.51174413,0,0,0.51214393,103.86807,19.318321)" />
+  </g>
 </svg>

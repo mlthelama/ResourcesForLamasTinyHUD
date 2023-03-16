@@ -25,30 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.1386719"
-     inkscape:cx="255.76621"
-     inkscape:cy="218.59361"
+     inkscape:cx="200.1242"
+     inkscape:cy="219.06118"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg33" />
-  <g
-     id="g6"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use2" />
-    <use
-       height="979.79999"
-       transform="matrix(0.1204,0,0,0.1205,4.8329,4.9018)"
-       width="981.29999"
-       xlink:href="#sprite0"
-       id="use4" />
-  </g>
   <defs
      id="defs31">
     <g
@@ -133,4 +117,16 @@
          id="path28" />
     </g>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 356.45,289.8 72.05,21.15 -72.05,21.7 q -4.7,52.2 -31,95.55 l -7.35,10.7 441.4,441.15 17,-16.7 L 813,899.9 721.15,991.85 684.6,955.3 700.55,939.1 259.1,497.85 q -4.7,3.4 -9.7,6.55 -44.65,27.65 -98.15,32.35 L 129.8,609.1 108.45,536.5 Q 45,530.55 -4.6,492.95 L -107.45,549.05 -51.1,445.9 Q -89.2,396.05 -94.65,332.4 L -168.3,310.7 -94.65,289 Q -89.2,225.6 -50.8,175.95 L -107.75,72.3 -3.8,128.7 Q 45.5,91.4 108.45,85.6 l 21.35,-73.55 21.95,73.3 q 63.75,5.55 113.9,43.35 L 369,72.3 312.6,175.95 q 38.1,50.45 43.85,113.85"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path149"
+       transform="matrix(0.48135932,0,0,0.48175912,100.46265,13.92014)" />
+  </g>
 </svg>

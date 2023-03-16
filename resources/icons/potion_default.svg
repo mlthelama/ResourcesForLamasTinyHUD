@@ -4,7 +4,7 @@
    width="512"
    version="1.1"
    id="svg33"
-   sodipodi:docname="default_potion.svg"
+   sodipodi:docname="potion_default.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="default_potion.png"
    inkscape:export-xdpi="96"
@@ -25,30 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4183568"
-     inkscape:cx="219.26782"
-     inkscape:cy="228.78588"
+     inkscape:cx="135.36791"
+     inkscape:cy="229.49092"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg33" />
-  <g
-     id="g6"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use2" />
-    <use
-       height="787.70001"
-       transform="matrix(0.1499,0,0,0.1498,23.9941,4.9897)"
-       width="534.75"
-       xlink:href="#sprite0"
-       id="use4" />
-  </g>
   <defs
      id="defs31">
     <g
@@ -133,4 +117,16 @@
          id="path28" />
     </g>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 422,84.85 q 10.65,0 19.3,9.65 9.45,10.85 9.45,24.25 0,13.2 -9.45,22.8 -7.5,8.5 -14.6,10.8 -1.4,7.35 -7.25,12.05 0,2.55 -2.15,3.75 -3.7,3.5 -10.05,3.5 h -2.4 V 323.4 l 18.35,5 q 54.15,19.5 98.8,63.7 78.1,78.3 78.1,189.4 0,110.8 -78.1,188.6 -31.55,31.6 -68.95,50.9 H 212.15 Q 174.75,801.7 143.5,770.1 65.35,692.3 65.35,581.5 q 0,-111.1 78.15,-189.4 45.6,-45.85 104.65,-64.9 3.8,-1.45 8.75,-2.65 v -152.9 h -1.45 q -8.2,0 -14.1,-7.25 -3.8,-4.7 -4.95,-12.05 -10.6,-1.15 -18.15,-10.8 -8.4,-9.6 -8.4,-22.8 0,-13.4 8.4,-24.25 8.45,-9.65 20.25,-9.65 h 26.85 V 67.95 Q 265.35,33.3 299,33.3 h 62.8 q 33.4,0 33.4,34.65 v 16.9 H 422"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path149"
+       transform="matrix(0.59930035,0,0,0.59890055,56.892094,0.13337331)" />
+  </g>
 </svg>

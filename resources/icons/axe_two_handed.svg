@@ -4,7 +4,7 @@
    width="512"
    version="1.1"
    id="svg33"
-   sodipodi:docname="two_handed_axe.svg"
+   sodipodi:docname="axe_two_handed.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="two_handed_axe.png"
    inkscape:export-xdpi="96"
@@ -25,30 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4183568"
-     inkscape:cx="108.57635"
-     inkscape:cy="170.9725"
+     inkscape:cx="24.676442"
+     inkscape:cy="171.67754"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg33" />
-  <g
-     id="g6"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use2" />
-    <use
-       height="914.79999"
-       transform="matrix(0.1394,0,0,0.1394,0.1566,0.2416)"
-       width="915.65002"
-       xlink:href="#sprite0"
-       id="use4" />
-  </g>
   <defs
      id="defs31">
     <g
@@ -133,4 +117,16 @@
          id="path28" />
     </g>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 562.35,336 11.95,27.55 q -17.75,-2.9 -34.7,-4.6 -125.3,-11.05 -225.75,58.5 l 410.2,410.4 13.55,-13.35 29.25,29.25 -73.5,73.5 L 664.1,888 676.85,875.05 266.65,464.65 q -69.8,100.7 -58.7,226 1.65,17.1 4.4,34.65 l -27.4,-11.9 Q -2.4,628.6 -95.1,478.65 -127.9,425.4 -148.8,364.2 q 96.7,19.4 175.45,-7.5 45.75,-15.5 85.4,-46.6 L 70.3,268.35 80.75,258.1 l -16.9,-44.05 44.25,16.5 9.4,-9.4 41.8,41.75 q 30.9,-39.5 46.35,-85.2 26.95,-78.75 7.5,-175.25 61.2,20.7 114.45,53.45 150,92.75 234.75,280.1 M 136.5,388.65 q -0.2,21.7 15.45,37.35 15.45,15.45 37.6,15.7 22.15,-0.25 38,-16.1 l -75.15,-75 q -15.9,15.9 -15.9,38.05 M 274.8,378.4 q 15.65,-15.65 15.65,-37.8 0,-21.95 -15.45,-37.4 -15.7,-15.65 -37.6,-15.65 -22.15,0.2 -37.8,15.85 l 75.2,75"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path253"
+       transform="matrix(0.55732134,0,0,0.55732134,83.683438,-0.27158421)" />
+  </g>
 </svg>

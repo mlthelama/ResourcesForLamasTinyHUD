@@ -25,30 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4183568"
-     inkscape:cx="-23.266361"
-     inkscape:cy="171.67754"
+     inkscape:cx="-107.87131"
+     inkscape:cy="172.38258"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg191" />
-  <g
-     id="g164"
-     transform="matrix(3.998001,0,0,3.998001,0.12793603,0.12793603)">
-    <use
-       height="100"
-       transform="scale(1.28)"
-       width="100"
-       xlink:href="#shape0"
-       id="use160" />
-    <use
-       height="826.70001"
-       transform="matrix(0.131,0,0,0.1311,9.9231,9.8108)"
-       width="825.25"
-       xlink:href="#sprite0"
-       id="use162" />
-  </g>
   <defs
      id="defs189">
     <g
@@ -133,4 +117,16 @@
          id="path186" />
     </g>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 93.9,172.25 -72.2,72.25 291.95,291.9 148.7,12 L 643,729.3 492.35,715.15 456.9,750.65 470.8,901.55 290.1,720.7 278.15,571.9 l -292,-291.95 -71,70.8 -97.4,-275.9 276.15,97.4"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path253"
+       transform="matrix(0.52373813,0,0,0.52413793,135.25177,0.1198001)" />
+  </g>
 </svg>
