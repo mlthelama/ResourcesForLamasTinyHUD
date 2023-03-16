@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg799"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="frame1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="frame3.svg"
    inkscape:export-filename="round.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,18 +28,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8761364"
-     inkscape:cx="66.892792"
-     inkscape:cy="365.11205"
-     inkscape:window-width="2506"
-     inkscape:window-height="1417"
-     inkscape:window-x="46"
-     inkscape:window-y="-8"
+     inkscape:cx="42.907328"
+     inkscape:cy="237.98909"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg799" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs796">
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Blur"
        id="filter2353"
        x="-0.060000173"
@@ -60,6 +60,7 @@
        id="path610-5-8-8-2"
        style="display:inline;fill:#ffffff;stroke-width:0.366728;filter:url(#filter2353)"
        inkscape:label="Highlight"
-       d="M 87.999797 63.987309 A 40 40 0 0 0 48.000171 103.98745 A 40 40 0 0 0 87.999797 143.98708 A 40 40 0 0 0 127.99994 103.98745 A 40 40 0 0 0 87.999797 63.987309 z M 87.999797 77.049044 A 27.00149 26.938592 0 0 1 115.00125 103.98797 A 27.00149 26.938592 0 0 1 87.999797 130.92586 A 27.00149 26.938592 0 0 1 60.998344 103.98797 A 27.00149 26.938592 0 0 1 87.999797 77.049044 z " />
+       d="M 87.999797,63.987309 A 40,40 0 0 0 48.000171,103.98745 40,40 0 0 0 87.999797,143.98708 40,40 0 0 0 127.99994,103.98745 40,40 0 0 0 87.999797,63.987309 Z m 0,13.061735 A 27.00149,26.938592 0 0 1 115.00125,103.98797 27.00149,26.938592 0 0 1 87.999797,130.92586 27.00149,26.938592 0 0 1 60.998344,103.98797 27.00149,26.938592 0 0 1 87.999797,77.049044 Z"
+       transform="matrix(1.5119088,0,0,1.5119088,-65.314719,-89.485813)" />
   </g>
 </svg>

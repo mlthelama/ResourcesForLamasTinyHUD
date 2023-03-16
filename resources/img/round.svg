@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.93806818"
-     inkscape:cx="268.63719"
-     inkscape:cy="564.45791"
+     inkscape:cx="187.61962"
+     inkscape:cy="565.52393"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="2391"
@@ -42,12 +42,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="display:inline;fill:#483e37;stroke-width:0.264583"
+    <path
        id="path610-5-8"
-       cx="-40"
-       cy="40"
-       r="40"
-       transform="scale(-1,1)" />
+       style="display:inline;fill:#483e37;stroke-width:0.264583"
+       transform="scale(-1,1)"
+       d="M 0,40 A 40,40 0 0 1 -40,80 40,40 0 0 1 -80,40 40,40 0 0 1 -40,0 40,40 0 0 1 0,40 Z" />
   </g>
 </svg>

@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg799"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="frame2.svg"
    inkscape:export-filename="round.png"
    inkscape:export-xdpi="96"
@@ -27,19 +27,19 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.93806818"
-     inkscape:cx="-351.25379"
-     inkscape:cy="385.89946"
-     inkscape:window-width="2506"
-     inkscape:window-height="1417"
-     inkscape:window-x="46"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.3266287"
+     inkscape:cx="169.22594"
+     inkscape:cy="169.22594"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <defs
      id="defs796">
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Blur"
        id="filter2427"
        x="-0.060000173"
@@ -59,6 +59,7 @@
     <path
        id="path610-5-8-7-9"
        style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter2427)"
-       d="M 88.000313 63.987309 A 40 40 0 0 0 48.000171 103.98745 A 40 40 0 0 0 88.000313 143.98759 A 40 40 0 0 0 127.99994 103.98745 A 40 40 0 0 0 88.000313 63.987309 z M 87.999797 83.660527 A 20.326923 20.326923 0 0 1 108.32672 103.98745 A 20.326923 20.326923 0 0 1 87.999797 124.31438 A 20.326923 20.326923 0 0 1 67.672872 103.98745 A 20.326923 20.326923 0 0 1 87.999797 83.660527 z " />
+       d="M 44.800142,4.8000001 A 40,40 0 0 0 4.8,44.800141 40,40 0 0 0 44.800142,84.800281 40,40 0 0 0 84.799769,44.800141 40,40 0 0 0 44.800142,4.8000001 Z M 44.799626,24.473218 A 20.326923,20.326923 0 0 1 65.126549,44.800141 20.326923,20.326923 0 0 1 44.799626,65.127071 20.326923,20.326923 0 0 1 24.472701,44.800141 20.326923,20.326923 0 0 1 44.799626,24.473218 Z"
+       transform="scale(1.5119088)" />
   </g>
 </svg>
